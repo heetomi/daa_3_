@@ -1,0 +1,9 @@
+{"task": "dsu", "n": 1, "operations": []}
+{"task": "dsu", "n": 4, "operations": [[0, 0], [1, 2], [1, 2]]}
+{"task": "kruskal", "n": 3, "edges": []}
+{"task": "kruskal", "n": 3, "edges": [[0, 1, 4], [0, 1, 2], [2, 2, 5]]}
+{"task": "prim", "n": 3, "edges": []}
+{"task": "prim", "n": 4, "edges": [[0, 1, 1], [0, 1, 2], [2, 3, 5]]}
+{"task": "scc", "n": 2, "edges": []}
+{"task": "topo", "n": 1, "edges": []}
+{"task": "dag", "n": 1, "source": 0, "edges": []}
